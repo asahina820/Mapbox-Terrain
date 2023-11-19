@@ -5,3 +5,5 @@ Mapbox GL JSを使って3D Terrainを表示するデモです。
 
 
 'YOUR_MAPBOX_ACCESS_TOKEN'の部分はお持ちのMapboxアクセストークンに書き換えてください。
+
+参考：https://docs.mapbox.com/mapbox-gl-js/example/add-terrain/
